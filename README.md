@@ -12,4 +12,4 @@ Listas:
 
 
 ### Imagem externa
-! [Logo Jupyter](/./share.png) 
+![Logo Jupyter](/./share.png) 
